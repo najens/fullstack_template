@@ -1,0 +1,12 @@
+// Import Bootstrap config first
+@import './bootstrap/config';
+
+// Import all Bootstrap_ext here
+@import './bootstrap_ext/mixins/button';
+@import './bootstrap_ext/classes/background';
+@import './bootstrap_ext/classes/button';
+
+// Import the rest below
+@import './variables';
+
+// Add custom SCSS below

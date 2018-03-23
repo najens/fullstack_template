@@ -1,0 +1,8 @@
+# Paths #
+node_modules/
+__pycache__/
+venv/
+
+# Files #
+.git
+npm-debug.log
